@@ -1,0 +1,10 @@
+
+# 1- Create a vehicle class with attributes name, max_speed, mileage and intialize them
+# 2- Create a method named show_capacity that takes capacity as a parameter and prints the capacity for the vehicle then create an object and print calling the method.
+# 3- Create a Bus class that inherits from vehicle, give it bus_type as an extra attribute and intialize it
+# 4- Override method show_capacity and make it return the name and mileage as well then create an object and print calling the method.
+# 5- Create a class called driver with attributes name, age and experience and initialize them.
+# 6- Create a method called driver_id and pass to it id then it will return name and id then create an object and print calling the method.
+# 7- Create a class called bus_driver that inherits from Bus and vehicle and initialize it giving it an extra attribute called bus_id.
+
+# Deadline Thursday 2/2 - 11:59pm.
